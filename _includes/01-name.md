@@ -1,3 +1,3 @@
-#Amanda Treutler
+# Amanda Treutler
 
-##GitHub Labs
+## GitHub Labs
