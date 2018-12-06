@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I speak *French.*
+I know **some** Spanish and **some** ASL.
+I am *learning* to code.
