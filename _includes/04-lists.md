@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Traveling
+  * France
+  * Thailand
+  * Philippines
+  * Hungary
+* Reading
+  * Vonnegut
+  * DFW
+  * Palahniuk
